@@ -1,0 +1,7 @@
+function easterEggs(input) {
+
+
+
+
+}
+easterEggs
