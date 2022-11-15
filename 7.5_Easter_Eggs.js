@@ -1,7 +1,0 @@
-function easterEggs(input) {
-
-
-
-
-}
-easterEggs
